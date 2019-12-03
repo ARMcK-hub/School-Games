@@ -1,0 +1,13 @@
+Author: Andrew McKinney
+Creation Date: 12/2/2019
+VU_DABC
+Pandas-Challenge Homework
+
+These are the observable trends for the HerosOfPymoli homework.
+
+
+1.
+
+2.
+
+3.
