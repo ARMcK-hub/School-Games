@@ -6,6 +6,8 @@ Pandas-Challenge Homework
 These are the observable trends for the PyCitySchools homework.
 
 
-1.
+1.Large Schools has a significantly lower passing rate than medium and small schools and in all categories. It is also noted that the small and medium sized schools are comparable to each other in scores and passing percentiles. These coult be attributed to several items. In particular, it is most likely that the teacher-to-student ratio is much lower at large schools, indicating a less personal learning experience. It is also possible that there might be a demographic that plays into this. Large, poorly funded schools might be located in large metro regions. We do see in another analysis that schools with less funding per headcount typically have worse scores. Most likely indicating a lower teacher-student ratio as well. We might also want to look on the grading scale that these schools utilize. If it is not standardized then it is much harder to compare these values. It is possible that there are more intelligent individuals at the large, poor scoring schools, but these schools use a harder grade scale. Or it is possible that some of these schools are private schools using a personalized grading system.
 
-2.
+
+
+2.There appears to be a much larger distribution of math scores than reading scores per school, indicating that failing and lower overall scores tend to be derived from students ability to learn math. This is also confirmed by reviewing the lowest overall scoring schools, which have considerably worse math scores than reading. Time to math up, kids.
